@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am currently a PhD candidate in the Department of Bioinformatics at Tongji University (TJU). My main research interests include **Bioinformatics**, **Computational Pathology**, **Multimodal Learning**, and **AI4Science**.
+
+🤔 My research direction focuses on the **Multimodal computational pathology**, and I also maintain broad interests in related areas. With training in both omics analysis and medical image analysis, I aim to develop reliable models and provide biological insights into their results, with the goal of supporting downstream research and clinical translation.  
+
+👀 I am actively looking for a **postdoctoral position starting in 2026**.
+📫 Feel free to reach out: **mengflz@outlook.com** / **mengflz@tongji.edu.cn**
